@@ -1,16 +1,16 @@
 {
-"name": "slot16888",
-"theme": "slot16888",
-"version": "3.7.9",
-"description": "slot16888 ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
-"keywords": [
-"slot16888",
-"slot16888 เครดิตฟรี",
-"slot16888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/slot16888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "slot16888",
+  "theme": "slot16888",
+  "version": "3.8.0",
+  "description": "slot16888 ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
+  "keywords": [
+    "slot16888",
+    "slot16888 เครดิตฟรี",
+    "slot16888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/slot16888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
